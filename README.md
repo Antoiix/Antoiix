@@ -1,4 +1,4 @@
-<h1 align="center">Antoiix Antoine Orange</h1>
+<h1 align="center">Antoiix | Antoine Orange</h1>
 <h3 align="center">Student from Epitech</h3>
 
 - 🔭 I’m currently working on **Epitech projects**
