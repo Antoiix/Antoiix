@@ -4,7 +4,9 @@
 
 - 🔭 I’m currently working on **Epitech projects**
 
-- 🌱 I’m currently learning **language C | CSFML and ncurses libraries**
+- 🔭 I'm currently working on **Epiflow project (Coming soon)**
+
+- 🌱 I’m currently learning **language C | Web with HTML / CSS / JavaScript**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
